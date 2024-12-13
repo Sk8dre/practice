@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <button type="submit">submit</button>
+      <button type="submit">zzz</button>
       <h1>hola soy esteban</h1>
     </>
   );
