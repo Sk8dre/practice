@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <button type="submit">submit</button>
+      <h1>hola soy esteban</h1>
     </>
   );
 }
